@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1682506504 source:c:\users\kalya\onedrive\documents\c++ inheritance\ticketbook\main.cpp
+	<iostream>
+	<fstream>
+	"header.h"
+
+1682495034 c:\users\kalya\onedrive\documents\c++ inheritance\ticketbook\header.h
+	<iostream>
+
+1682495489 source:c:\users\kalya\onedrive\documents\c++ inheritance\ticketbook\member.cpp
+	<iostream>
+	<fstream>
+	"header.h"
+
